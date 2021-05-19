@@ -86,11 +86,14 @@ S
 
 ### DP
 
-| 번호 | 문제       | 풀이 | 레벨 |
-| ---- | ---------- | ---- | ---- |
-| 1038 | 감소하는수 | 풀이 | G5   |
-| 2293 | 동전1      | 풀이 | S1   |
-| 2294 | 동전2      | 풀이 | S1   |
+| 번호  | 문제         | 풀이                                                         | 레벨 |
+| ----- | ------------ | ------------------------------------------------------------ | ---- |
+| 1038  | 감소하는수   | 풀이                                                         | G5   |
+| 2294  | 동전2        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2294-%EB%8F%99%EC%A0%842dp) | S1   |
+| 12852 | 1로만들기2   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-12852-1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B02dp) | S1   |
+| 11727 | 2*n타일링2   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-11727-2n%ED%83%80%EC%9D%BC%EB%A7%812dp) | S3   |
+| 18353 | 병사배치하기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1835-%EB%B3%91%EC%82%AC%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0dp) | S2   |
+| 12026 | BOJ거리      | 풀이                                                         | S1   |
 
 
 
@@ -164,6 +167,14 @@ S
 
 
 
+### 월간코드챌린지
+
+| 문제              | 풀이 | 레벨 |
+| ----------------- | ---- | ---- |
+| 110옮기기         | 풀이 | L3   |
+| 2개이하로다른비트 | 풀이 | L2   |
+|                   |      |      |
+
 </div>
 </details>   
 
@@ -200,6 +211,16 @@ S
 | ---------- | ------------------------------------------------------------ |
 | 정확한순위 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EC%A0%95%ED%99%95%ED%95%9C%EC%88%9C%EC%9C%84%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) |
 | 화성탐사   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%99%94%EC%83%81%ED%83%90%EC%82%AC%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) |
+
+
+
+### DP
+
+| 문제     | 풀이                                                         |
+| -------- | ------------------------------------------------------------ |
+| 개미전사 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EA%B0%9C%EB%AF%B8%EC%A0%84%EC%82%ACdp) |
+| 금광     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EA%B8%88%EA%B4%91dp) |
+| 못생긴수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%AA%BB%EC%83%9D%EA%B8%B4%EC%88%98dp) |
 
 
 
@@ -732,6 +753,27 @@ S
   - 개미전사
   - 못생긴수
   - 편집거리(하는중)
+
+## 0513
+
+까먹을까봐 메모 : 풀다만것 (편집거리, 평범한배낭, boj거리..)
+
+
+
+## 0514
+
+백준
+
+- dp_boj거리_12026
+
+## 0519
+
+프로그래머스 월간코드챌린지
+
+- 110옮기기_level3
+- 2개이하로다른비트_level2
+
+
 
 </div>
 </details>   

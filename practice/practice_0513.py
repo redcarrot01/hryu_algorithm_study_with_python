@@ -29,3 +29,5 @@ def solution(numbers):
                 temp += 1
 
     return answer
+solution([3, 7])
+
