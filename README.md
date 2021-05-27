@@ -107,6 +107,10 @@ S
 | 9465  | 스티커                 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-9465-%EC%8A%A4%ED%8B%B0%EC%BB%A4dp) | S3   |
 | 2193  | 이친수                 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2193-%EC%9D%B4%EC%B9%9C%EC%88%98dp) | S3   |
 | 2156  | 포도주시식             | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2156-%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9Ddp) | S1   |
+| 11722 | 가장긴감소부분수열     | 풀이                                                         | S2   |
+| 11054 | 가장긴바이토닉부분수열 | 풀이                                                         | G3   |
+| 11055 | 가장큰증가부분수열     | 풀이                                                         | S2   |
+| 2225  | 합분해                 | 풀이                                                         | G5   |
 
 
 
@@ -784,6 +788,21 @@ S
 - 스티커 9465
 - 이친수 2193
 - 포도주시식 2156
+
+## 0526
+
+백준
+
+- 가장긴감소부분수열_11722
+- 가장긴바이토닉부분수열_11054
+- 가장큰증가부분수열_11055
+
+## 0527
+
+백준
+
+- 연속합_1912
+- 합분해_2225
 
 </div>
 </details>   
