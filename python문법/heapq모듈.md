@@ -29,7 +29,7 @@ heap.heappush()
 heap.heappop()
 
 # 기존 리스트를 힙으로 만들기
-list = [4,1, 7]
+list = [4,1,7]
 heapq.heapify(list)
 ~~~
 
