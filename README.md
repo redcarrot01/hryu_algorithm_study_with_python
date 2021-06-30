@@ -234,6 +234,22 @@
 <details>
 <summary>KAKAO</summary>
 <div markdown="1">
+### 2018 KAKAO BLIND RECRUITMENT
+
+| 문제     | 풀이 | 레벨 |
+| -------- | ---- | ---- |
+| 다트게임 | 풀이 | L1   |
+| 비밀지도 | 풀이 | L1   |
+
+
+
+### 2019 KAKAO WINTER INTERNSHIP
+
+| 문제           | 풀이 | 레벨 |
+| -------------- | ---- | ---- |
+| 크레인인형뽑기 | 풀이 | L1   |
+|                |      |      |
+
 
 
 
@@ -244,6 +260,16 @@
 | 키패드누르기 | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0Level1) | L1   |
 | 수식최대화   | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94Level2) | L2   |
 | 보석쇼핑     | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91Level3) | L3   |
+|              |                                                              |      |
+
+
+
+### 2021  KAKAO BLIND RECRUITMENT
+
+| 문제           | 풀이 | 레벨 |
+| -------------- | ---- | ---- |
+| 신규아이디추천 | 풀이 | L1   |
+|                |      |      |
 
 
 
@@ -917,6 +943,12 @@
 프로그래머스
 
 - level1 scan
+
+## 0630
+
+프로그래머스
+
+- L1 카카오 FINISH
 
 </div>
 </details>   
