@@ -172,32 +172,32 @@
 
 ### LEVEL1
 
-| 문제                       | 풀이 | checking      |
-| -------------------------- | ---- | ------------- |
-| 소수만들기                 | 풀이 | 썸머윈터코딩  |
-| 예산                       | 풀이 | 썸머윈터코딩  |
-| 로또의최고순위와최저순위   | 풀이 | 데브매칭      |
-| 포켓몬                     | 풀이 |               |
-| 2016년                     | 풀이 |               |
-| 가운데글자가져오기         | 풀이 |               |
-| 같은숫자는싫어             | 풀이 |               |
-| 나누어떨어지는숫자배열     | 풀이 |               |
-| 두정수사이의합             | 풀이 |               |
-| 문자열내P와Y의개수         | 풀이 |               |
-| 문자열내림차순으로배치하기 | 풀이 |               |
-| 문자열내마음대로정렬하기   | 풀이 |               |
-| 문자열다루기기본           | 풀이 |               |
-| 문자열정수로바꾸기         | 풀이 |               |
-| 서울에서김서방찾기         | 풀이 |               |
-| 소수찾기                   | 풀이 | ✔ 에라토스..  |
-| 수박수박수                 | 풀이 |               |
-| 시저암호                   | 풀이 | ✔ 아스키코드  |
-| 이상한문자만들기           | 풀이 | ✔             |
-| 자연수뒤집어배열로만들기   | 풀이 | ✔ reversed()  |
-| 정수내림차순으로배치       | 풀이 | ✔ join()      |
-| 정수제곱근판별             | 풀이 | ✔ math.sqrt() |
-| 최대공약수와최소공배수     | 풀이 | ✔             |
-| 행렬의덧셈                 | 풀이 | ✔ ✔           |
+| 문제                       | 풀이                                                         | checking      |
+| -------------------------- | ------------------------------------------------------------ | ------------- |
+| 소수만들기                 | 풀이                                                         | 썸머윈터코딩  |
+| 예산                       | 풀이                                                         | 썸머윈터코딩  |
+| 로또의최고순위와최저순위   | 풀이                                                         | 데브매칭      |
+| 포켓몬                     | 풀이                                                         |               |
+| 2016년                     | 풀이                                                         |               |
+| 가운데글자가져오기         | 풀이                                                         |               |
+| 같은숫자는싫어             | 풀이                                                         |               |
+| 나누어떨어지는숫자배열     | 풀이                                                         |               |
+| 두정수사이의합             | 풀이                                                         |               |
+| 문자열내P와Y의개수         | 풀이                                                         |               |
+| 문자열내림차순으로배치하기 | 풀이                                                         |               |
+| 문자열내마음대로정렬하기   | 풀이                                                         |               |
+| 문자열다루기기본           | 풀이                                                         |               |
+| 문자열정수로바꾸기         | 풀이                                                         |               |
+| 서울에서김서방찾기         | 풀이                                                         |               |
+| 소수찾기                   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98-%EC%A0%95%EC%88%98%EC%A0%9C%EA%B3%B1%EA%B7%BC%ED%8C%90%EB%B3%84Level1) | ✔ 에라토스..  |
+| 수박수박수                 | 풀이                                                         |               |
+| 시저암호                   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8-%ED%96%89%EB%A0%AC%EC%9D%98%EB%8D%A7%EC%85%88Level1) | ✔ 아스키코드  |
+| 이상한문자만들기           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9E%90%EC%97%B0%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A0%95%EC%88%98%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98Level1) | ✔             |
+| 자연수뒤집어배열로만들기   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9E%90%EC%97%B0%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A0%95%EC%88%98%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98Level1) | ✔ reversed()  |
+| 정수내림차순으로배치       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9E%90%EC%97%B0%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A0%95%EC%88%98%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98Level1) | ✔ join()      |
+| 정수제곱근판별             | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98-%EC%A0%95%EC%88%98%EC%A0%9C%EA%B3%B1%EA%B7%BC%ED%8C%90%EB%B3%84Level1) | ✔ math.sqrt() |
+| 최대공약수와최소공배수     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98-%EC%A0%95%EC%88%98%EC%A0%9C%EA%B3%B1%EA%B7%BC%ED%8C%90%EB%B3%84Level1) | ✔             |
+| 행렬의덧셈                 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8-%ED%96%89%EB%A0%AC%EC%9D%98%EB%8D%A7%EC%85%88Level1) | ✔ ✔           |
 
 
 
@@ -273,19 +273,20 @@
 
 ### 2018 KAKAO BLIND RECRUITMENT
 
-| 문제     | 풀이 | 레벨 |
-| -------- | ---- | ---- |
-| 다트게임 | 풀이 | L1   |
-| 비밀지도 | 풀이 | L1   |
+| 문제           | 풀이                                                         | 레벨 |
+| -------------- | ------------------------------------------------------------ | ---- |
+| 다트게임       | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2018-kakao-Blind-Recruitment-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84Level1) | L1   |
+| 비밀지도       | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84Level1) | L1   |
+| 뉴스클러스터링 | 풀이                                                         | L2   |
 
 
 
 ### 2019 KAKAO WINTER INTERNSHIP
 
-| 문제           | 풀이 | 레벨 |
-| -------------- | ---- | ---- |
-| 크레인인형뽑기 | 풀이 | L1   |
-| 튜플           |      | L2   |
+| 문제           | 풀이                                                         | 레벨 |
+| -------------- | ------------------------------------------------------------ | ---- |
+| 크레인인형뽑기 | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2019-kakao-Winter-Internship-%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0Level1) | L1   |
+| 튜플           | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2019-kakao-winter-internship-%ED%8A%9C%ED%94%8CLevel2) | L2   |
 
 
 
@@ -297,17 +298,17 @@
 | 키패드누르기 | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0Level1) | L1   |
 | 수식최대화   | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94Level2) | L2   |
 | 보석쇼핑     | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91Level3) | L3   |
-| 실패율       | 풀이                                                         | L1   |
+| 실패율       | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EC%8B%A4%ED%8C%A8%EC%9C%A8Level1) | L1   |
 
 
 
 ### 2021  KAKAO BLIND RECRUITMENT
 
-| 문제           | 풀이 | 레벨 |
-| -------------- | ---- | ---- |
-| 신규아이디추천 | 풀이 | L1   |
-| 순위검색       | 풀이 | L2   |
-| 메뉴리뉴얼     | 풀이 | L2   |
+| 문제           | 풀이                                                         | 레벨 |
+| -------------- | ------------------------------------------------------------ | ---- |
+| 신규아이디추천 | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2021-kakao-Blind-Recruitment-%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9CLevel1) | L1   |
+| 순위검색       | 풀이                                                         | L2   |
+| 메뉴리뉴얼     | 풀이                                                         | L2   |
 
 
 
