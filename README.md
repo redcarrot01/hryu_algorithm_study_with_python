@@ -1,14 +1,10 @@
 # hryu_algorithm_study_with_python
 
-#### hryu_algorithm_study c++로 문제 해결 -> 이제 파이썬으로 해결
-
-
+#### 나중에 마트다운 정리하자 ㅋㅋ
 
 <details>
 <summary> 문제 풀이 바로가기 </summary>
 <div markdown="1">
-
-
 
 
 <details>
@@ -56,11 +52,13 @@
 
 ### 구현
 
-| 번호  | 문제 | 풀이                                                         | 레벨 |
-| ----- | ---- | ------------------------------------------------------------ | ---- |
-| 3190  | 뱀   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3190-%EB%B1%80%EA%B5%AC%ED%98%84) | G5   |
-| 14888 | 빗물 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14719-%EB%B9%97%EB%AC%BC%EA%B5%AC%ED%98%84) | G5   |
-|       |      |                                                              |      |
+| 번호  | 문제        | 풀이                                                         | 레벨 |
+| ----- | ----------- | ------------------------------------------------------------ | ---- |
+| 3190  | 뱀          | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3190-%EB%B1%80%EA%B5%AC%ED%98%84) | G5   |
+| 14888 | 빗물        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14719-%EB%B9%97%EB%AC%BC%EA%B5%AC%ED%98%84) | G5   |
+| 16926 | 배열돌리기1 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16926-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01dp) | S3   |
+| 16927 | 배열돌리기2 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16927-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B02%EA%B5%AC%ED%98%84%ED%96%89%EB%A0%AC) | S1   |
+| 17935 | 배열돌리기3 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16935-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B03%EA%B5%AC%ED%98%84%ED%96%89%EB%A0%AC) | G3   |
 
 
 
@@ -69,7 +67,7 @@
 | 번호 | 문제           | 풀이                                                         | 레벨 |
 | ---- | -------------- | ------------------------------------------------------------ | ---- |
 | 1916 | 최소비용구하기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1916-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC) | G5   |
-|      |                |                                                              |      |
+| 1753 | 플로이드       | 풀이                                                         |      |
 
 
 
@@ -123,9 +121,10 @@
 
 ### 문자열
 
-| 번호  | 문제       | 풀이 | 레벨 |
-| ----- | ---------- | ---- | ---- |
-| 16916 | 부분문자열 | 풀이 | G4   |
+| 번호  | 문제        | 풀이                                                         | 레벨 |
+| ----- | ----------- | ------------------------------------------------------------ | ---- |
+| 16916 | 부분문자열  | 풀이                                                         | G4   |
+| 20437 | 문자열게임2 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%96%89%EB%A0%AC%ED%85%8C%EB%91%90%EB%A6%AC%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0Level2) | G5   |
 
 
 
@@ -230,14 +229,76 @@
 
 ### DFS&BFS
 
-| 문제         | 풀이                                                         | 레벨 |
-| ------------ | ------------------------------------------------------------ | ---- |
-| 괄호변환     | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%92%80%EC%9D%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98-2020-KAKAO-BLIND-RECRUITMENT) | L2   |
-| 타겟넘버     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%83%80%EC%BC%93%EB%84%98%EB%B2%84dfsbfs-Level2) | L2   |
-| 블록이동하기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42020-KAKAO-BLIND-RECRUITMENT-%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0BFS-Level3) | L3   |
-| 네트워크     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%ACdfsbfs-Level3) | L3   |
-| 단어변환     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98dfsbfs-Level3) | L3   |
-| 여행경로     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9Cdfsbfs-Level3) | L3   |
+| 문제           | 풀이                                                         | 레벨 |
+| -------------- | ------------------------------------------------------------ | ---- |
+| 괄호변환 V     | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%92%80%EC%9D%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98-2020-KAKAO-BLIND-RECRUITMENT) | L2   |
+| 타겟넘버       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%83%80%EC%BC%93%EB%84%98%EB%B2%84dfsbfs-Level2) | L2   |
+| 블록이동하기 V | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42020-KAKAO-BLIND-RECRUITMENT-%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0BFS-Level3) | L3   |
+| 네트워크       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%ACdfsbfs-Level3) | L3   |
+| 단어변환       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98dfsbfs-Level3) | L3   |
+| 여행경로       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9Cdfsbfs-Level3) | L3   |
+
+
+
+### HASH
+
+| 문제             | 풀이                                                         | 레벨 |
+| ---------------- | ------------------------------------------------------------ | ---- |
+| 완주하지못한선수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D-%EC%9C%84%EC%9E%A5-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94hash) | L1   |
+| 전화번호목록     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D-%EC%9C%84%EC%9E%A5-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94hash) | L2   |
+| 위장             | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D-%EC%9C%84%EC%9E%A5-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94hash) | L2   |
+| 베스트앨범       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D-%EC%9C%84%EC%9E%A5-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94hash) | L3   |
+
+
+
+### STACK&QUEUE
+
+| 문제             | 풀이                                                         | 레벨 |
+| ---------------- | ------------------------------------------------------------ | ---- |
+| 기능개발         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A6%B0%ED%84%B0-%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9stackqueue) | L2   |
+| 프린터           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A6%B0%ED%84%B0-%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9stackqueue) | L2   |
+| 다리를지나는트럭 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A6%B0%ED%84%B0-%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9stackqueue) | L2   |
+| 주식가격         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A6%B0%ED%84%B0-%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9stackqueue) | L2   |
+
+
+
+### SORT
+
+| 문제     | 풀이                                                         | 레벨 |
+| -------- | ------------------------------------------------------------ | ---- |
+| K번째수  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-k%EB%B2%88%EC%A7%B8%EC%88%98-%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98-H-indexsort) | L1   |
+| 가장큰수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-k%EB%B2%88%EC%A7%B8%EC%88%98-%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98-H-indexsort) | L2   |
+| H-INDEX  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-k%EB%B2%88%EC%A7%B8%EC%88%98-%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98-H-indexsort) | L2   |
+
+
+
+### BRUTEFORCE
+
+| 문제     | 풀이                                                         | 레벨 |
+| -------- | ------------------------------------------------------------ | ---- |
+| 완전탐색 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0-%EC%B9%B4%ED%8E%ABbruteforce) | L1   |
+| 소수찾기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0-%EC%B9%B4%ED%8E%ABbruteforce) | L2   |
+| 카펫     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0-%EC%B9%B4%ED%8E%ABbruteforce) | L2   |
+
+
+
+### HEAP
+
+| 문제           | 풀이                                                         | 레벨 |
+| -------------- | ------------------------------------------------------------ | ---- |
+| 더맵게         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EB%8D%94-%EB%A7%B5%EA%B2%8C-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90heap) | L2   |
+| 디스크컨트롤러 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EB%8D%94-%EB%A7%B5%EA%B2%8C-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90heap) | L3   |
+| 이중우선순위큐 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EB%8D%94-%EB%A7%B5%EA%B2%8C-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90heap) | L3   |
+
+
+
+### GRAPH
+
+| 문제       | 풀이                                                         | 레벨 |
+| ---------- | ------------------------------------------------------------ | ---- |
+| 가장먼노드 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EA%B0%80%EC%9E%A5-%EB%A8%BC-%EB%85%B8%EB%93%9C%EA%B7%B8%EB%9E%98%ED%94%84-Level3) | L3   |
+| 순위       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EC%88%9C%EC%9C%84%EA%B7%B8%EB%9E%98%ED%94%84-Level3) | L3   |
+|            |                                                              |      |
 
 
 
@@ -269,15 +330,13 @@
 
 
 
-
-
 ### 2018 KAKAO BLIND RECRUITMENT
 
 | 문제           | 풀이                                                         | 레벨 |
 | -------------- | ------------------------------------------------------------ | ---- |
 | 다트게임       | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2018-kakao-Blind-Recruitment-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84Level1) | L1   |
 | 비밀지도       | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84Level1) | L1   |
-| 뉴스클러스터링 | 풀이                                                         | L2   |
+| 뉴스클러스터링 | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2018-kakao-Blind-Recruitment-%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81Level2) | L2   |
 
 
 
@@ -302,13 +361,32 @@
 
 
 
+### 2020  KAKAO BLIND RECRUITMENT
+
+| 문제         | 풀이                                                         | 레벨 |
+| ------------ | ------------------------------------------------------------ | ---- |
+| 괄호변환     | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%92%80%EC%9D%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98-2020-KAKAO-BLIND-RECRUITMENT) | L2   |
+| 블록이동하기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42020-KAKAO-BLIND-RECRUITMENT-%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0BFS-Level3) | L3   |
+|              |                                                              |      |
+
+
+
 ### 2021  KAKAO BLIND RECRUITMENT
 
 | 문제           | 풀이                                                         | 레벨 |
 | -------------- | ------------------------------------------------------------ | ---- |
 | 신규아이디추천 | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2021-kakao-Blind-Recruitment-%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9CLevel1) | L1   |
-| 순위검색       | 풀이                                                         | L2   |
-| 메뉴리뉴얼     | 풀이                                                         | L2   |
+| 메뉴리뉴얼     | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2021-kakao-Blind-Recruitment-%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BCLevel2) | L2   |
+
+
+
+### 2021  KAKAO RECRUITMENT-LINKED INTERNSHIP
+
+| 문제             | 풀이                                                         | 레벨 |
+| ---------------- | ------------------------------------------------------------ | ---- |
+| 거리두기확인하기 | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2021-kakao-Recruitment-Linked-Internship-%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0Level2) | L2   |
+|                  |                                                              |      |
+|                  |                                                              |      |
 
 
 
@@ -349,40 +427,6 @@
 <details>
 <summary> Daily solving History </summary>
 <div markdown="1">
-
-
-
-## P2&P3
-
-안푼 : 구현-_자물쇠와열쇠 치킨배달 외벽점검 | 이진-정렬된, 고정점, 공유기, 가사검색 | dp-못생긴수,편집거리 | 그래-all | 아기상어 청소년상어 어른상어 | 기타알고
-
-틀린 : 감시피하기(왜아직도안했지??)
-
-## 프로그래머스
-
-못푼 : 디스크컨트롤러, 조이스틱, 섬연결하기(크루스칼 공부하고 풀기), N으로표현(나중에) 네이놈!!
-
-|          | 푼                                                           | 어려운                                                       |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 해시     | [L1]완주하지못한선수(ZIP,SET)<br/>[L2]전화번호목록<br/>[L2]위장(dic or 여러방법)<br/> | [L3]베스트앨범                                               |
-| 힙       | [L2]더맵게<br/>                                              | [L3]이중우선순위큐<br/>[L3]디크스컨트롤러(못품)              |
-| 스택큐   | [L2]다리를지나는트럭<br/>[L2]주식가격<br/>[L2]기능개발(문자열처리!)<br/> | [L2]프린터                                                   |
-| 정렬     | [L1]k번째수<br/>[L2]가장큰수<br/>[L2]H-인데스(두잇)          |                                                              |
-| 완전탐색 | [L1]모의고사<br/>[L2]카펫                                    | [L2]소수찾기(itertools익히기)                                |
-| 탐욕법   | [L1]체육복<br/>[L2]구명보트(커서이용)                        | [L2]조이스틱(논리, 구현력)<br/>[L2]큰수만들기(스택활용)<BR>[L3] 단속카메라 |
-| DP       | [L3]정수삼각형(갸꿀~)                                        |                                                              |
-| DFS/BFS  | [L3]네트워크(플로이드워셜로풀어보기)                         | [L2]타켓넘버(재밌는문제, 4가지 방법모두 해결해보기 )<br/>[L3]단어변환(통과했으나, BFS로 풀어보기)<br/>[L3]여행경로 |
-| 이분탐색 |                                                              |                                                              |
-| 그래프   |                                                              |                                                              |
-
-
-
-## 카카오
-
-| 2020 카카오 인턴쉽 | 2020인턴쉽_키패드누르기_문자열<br> 2020인턴쉽_수식최대화_문자열(정규표현식) <br>2020인턴쉽_보석쇼핑_투포인터 |
-| ------------------ | ------------------------------------------------------------ |
-|                    |                                                              |
-
 
 
 <details>
@@ -1014,6 +1058,10 @@
 프로그래머스 
 
 백준 
+
+
+
+### 히스토리는 앞으로 기록하지 않습니다.
 
 </div>
 </details>   
