@@ -52,14 +52,15 @@
 
 ### 구현
 
-| 번호  | 문제        | 풀이                                                         | 레벨 |
-| ----- | ----------- | ------------------------------------------------------------ | ---- |
-| 3190  | 뱀          | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3190-%EB%B1%80%EA%B5%AC%ED%98%84) | G5   |
-| 14888 | 빗물        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14719-%EB%B9%97%EB%AC%BC%EA%B5%AC%ED%98%84) | G5   |
-| 16926 | 배열돌리기1 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16926-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01dp) | S3   |
-| 16927 | 배열돌리기2 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16927-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B02%EA%B5%AC%ED%98%84%ED%96%89%EB%A0%AC) | S1   |
-| 17935 | 배열돌리기3 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16935-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B03%EA%B5%AC%ED%98%84%ED%96%89%EB%A0%AC) | G3   |
-| 16719 | ZOAC        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16719-ZOAC-%EA%B5%AC%ED%98%84) | G5   |
+| 번호  | 문제         | 풀이                                                         | 레벨 |
+| ----- | ------------ | ------------------------------------------------------------ | ---- |
+| 3190  | 뱀           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3190-%EB%B1%80%EA%B5%AC%ED%98%84) | G5   |
+| 14888 | 빗물         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14719-%EB%B9%97%EB%AC%BC%EA%B5%AC%ED%98%84) | G5   |
+| 16926 | 배열돌리기1  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16926-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01dp) | S3   |
+| 16927 | 배열돌리기2  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16927-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B02%EA%B5%AC%ED%98%84%ED%96%89%EB%A0%AC) | S1   |
+| 17935 | 배열돌리기3  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16935-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B03%EA%B5%AC%ED%98%84%ED%96%89%EB%A0%AC) | G3   |
+| 16719 | ZOAC         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16719-ZOAC-%EA%B5%AC%ED%98%84) | G5   |
+| 20164 | 홀수홀릭호석 |                                                              | G5   |
 
 
 
