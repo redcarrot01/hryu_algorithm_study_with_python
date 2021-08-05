@@ -1,6 +1,6 @@
 # hryu_algorithm_study_with_python
 
-#### 나중에 마트다운 정리하자 ㅋㅋ
+#### 
 
 <details>
 <summary> 문제 풀이 바로가기 </summary>
@@ -156,7 +156,8 @@
 | 2470 | 두용액        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2470-%EB%91%90%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
 | 3151 | 합이0         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3151-%ED%95%A9%EC%9D%B40-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
 | 1477 | 휴게소세우기  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1477-%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%84%B8%EC%9A%B0%EA%B8%B0-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
-| 7453 | 합이0인네정수 |                                                              | G2   |
+| 7453 | 합이0인네정수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7453-%ED%95%A9%EC%9D%B40%EC%9D%B8%EB%84%A4%EC%A0%95%EC%88%98-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G2   |
+| 2473 | 세용액        |                                                              | G4   |
 
 
 
@@ -175,6 +176,16 @@
 | 2015  | 수들의합4  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2015-%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A94-%EA%B5%AC%EA%B0%84%ED%95%A9) | G5   |
 | 10986 | 나머지합   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-10986-%EB%82%98%EB%A8%B8%EC%A7%80%ED%95%A9-%EA%B5%AC%EA%B0%84%ED%95%A9) | G4   |
 | 1749  | 점수따먹기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1749-%EC%A0%90%EC%88%98%EB%94%B0%EB%A8%B9%EA%B8%B0-%EA%B5%AC%EA%B0%84%ED%95%A9) | G4   |
+
+
+
+### 이분탐색
+
+| 번호  | 문제       | 풀이 | 레벨 |
+| ----- | ---------- | ---- | ---- |
+| 13397 | 구간나누기 |      | G4   |
+|       |            |      |      |
+|       |            |      |      |
 
 
 
