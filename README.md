@@ -1,6 +1,6 @@
 # hryu_algorithm_study_with_python
 
-#### 
+
 
 <details>
 <summary> 문제 풀이 바로가기 </summary>
@@ -39,6 +39,7 @@
 | 14226 | 이모티콘       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14226-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98dfsbfs) | G5   |
 | 17086 | 아기상어2      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-17086-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42dfsbfs) | G5   |
 | 16930 | 달리기         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16930-%EB%8B%AC%EB%A6%AC%EA%B8%B0dfsbfs) | P2   |
+| 2412  | 암벽등반       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2412-%EC%95%94%EB%B2%BD%EB%93%B1%EB%B0%98-bfs) | G3   |
 
 
 
