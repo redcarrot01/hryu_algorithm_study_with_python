@@ -120,6 +120,7 @@
 | ---- | -------------- | ------------------------------------------------------------ | ---- |
 | 1197 | 최소스패닝트리 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1197-%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC%EB%AC%B8%EC%9E%90%EC%97%B4) | G4   |
 | 1647 | 도시분할계획   | 풀이                                                         | G4   |
+| 1939 | 중량제한       | 풀이                                                         | G4   |
 
 
 
@@ -158,7 +159,7 @@
 | 3151 | 합이0         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3151-%ED%95%A9%EC%9D%B40-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
 | 1477 | 휴게소세우기  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1477-%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%84%B8%EC%9A%B0%EA%B8%B0-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
 | 7453 | 합이0인네정수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7453-%ED%95%A9%EC%9D%B40%EC%9D%B8%EB%84%A4%EC%A0%95%EC%88%98-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G2   |
-| 2473 | 세용액        |                                                              | G4   |
+| 2473 | 세용액        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2473-%EC%84%B8%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
 
 
 
@@ -182,11 +183,13 @@
 
 ### 이분탐색
 
-| 번호  | 문제       | 풀이 | 레벨 |
-| ----- | ---------- | ---- | ---- |
-| 13397 | 구간나누기 |      | G4   |
-|       |            |      |      |
-|       |            |      |      |
+| 번호  | 문제                              | 풀이                                                         | 레벨 |
+| ----- | --------------------------------- | ------------------------------------------------------------ | ---- |
+| 13397 | 구간나누기2                       |                                                              | G4   |
+| 2110  | 공유기설치                        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89) | G4   |
+| 1939  | 중량제한(이분탐색, BFS, 크루스칼) |                                                              |      |
+
+
 
 
 
@@ -446,6 +449,17 @@
 | 개미전사 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EA%B0%9C%EB%AF%B8%EC%A0%84%EC%82%ACdp) |
 | 금광     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EA%B8%88%EA%B4%91dp) |
 | 못생긴수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%AA%BB%EC%83%9D%EA%B8%B4%EC%88%98dp) |
+
+
+
+### binarySearch
+
+| 문제                             | 풀이                                                         |
+| -------------------------------- | ------------------------------------------------------------ |
+| 정렬된배열에서특정수의개수구하기 | [풀이](https://velog.io/@redcarrot01/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98-%ED%85%9C%ED%94%8C%EB%A6%BF) |
+| 고정점찾기                       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EA%B3%A0%EC%A0%95%EC%A0%90%EC%B0%BE%EA%B8%B0%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89) |
+| 떡볶이떡만들기                   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%96%A1%EB%B3%B6%EC%9D%B4%EB%96%A1%EB%A7%8C%EB%93%A4%EA%B8%B0%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89) |
+| 부품찾기                         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B6%80%ED%92%88%EC%B0%BE%EA%B8%B0%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89) |
 
 
 
