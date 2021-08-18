@@ -152,14 +152,15 @@
 
 ### 투포인터
 
-| 번호 | 문제          | 풀이                                                         | 레벨 |
-| ---- | ------------- | ------------------------------------------------------------ | ---- |
-| 1806 | 부분합        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1806-%EB%B6%80%EB%B6%84%ED%95%A9%EB%AC%B8%EC%9E%90%EC%97%B4) | G4   |
-| 2470 | 두용액        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2470-%EB%91%90%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
-| 3151 | 합이0         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3151-%ED%95%A9%EC%9D%B40-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
-| 1477 | 휴게소세우기  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1477-%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%84%B8%EC%9A%B0%EA%B8%B0-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
-| 7453 | 합이0인네정수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7453-%ED%95%A9%EC%9D%B40%EC%9D%B8%EB%84%A4%EC%A0%95%EC%88%98-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G2   |
-| 2473 | 세용액        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2473-%EC%84%B8%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
+| 번호  | 문제          | 풀이                                                         | 레벨 |
+| ----- | ------------- | ------------------------------------------------------------ | ---- |
+| 1806  | 부분합        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1806-%EB%B6%80%EB%B6%84%ED%95%A9%EB%AC%B8%EC%9E%90%EC%97%B4) | G4   |
+| 2470  | 두용액        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2470-%EB%91%90%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
+| 3151  | 합이0         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3151-%ED%95%A9%EC%9D%B40-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
+| 1477  | 휴게소세우기  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1477-%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%84%B8%EC%9A%B0%EA%B8%B0-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
+| 7453  | 합이0인네정수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7453-%ED%95%A9%EC%9D%B40%EC%9D%B8%EB%84%A4%EC%A0%95%EC%88%98-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G2   |
+| 2473  | 세용액        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2473-%EC%84%B8%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
+| 15961 | 회전초밥      |                                                              | G4   |
 
 
 
