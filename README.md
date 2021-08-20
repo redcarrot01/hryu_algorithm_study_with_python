@@ -404,6 +404,7 @@
 | 괄호변환     | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%92%80%EC%9D%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98-2020-KAKAO-BLIND-RECRUITMENT) | L2   |
 | 블록이동하기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42020-KAKAO-BLIND-RECRUITMENT-%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0BFS-Level3) | L3   |
 | 가사검색     | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C%EC%B1%84%EC%9A%A9-%EA%B0%80%EC%82%AC%EA%B2%80%EC%83%89Level4) | L4   |
+| 자물쇠와열쇠 | 풀이                                                         | L3   |
 
 
 
