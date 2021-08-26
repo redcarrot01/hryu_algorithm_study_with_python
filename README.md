@@ -15,40 +15,45 @@
 
 ### DFS&BFS
 
-| 번호  | 문제           | 풀이                                                         | 레벨 |
-| ----- | -------------- | ------------------------------------------------------------ | ---- |
-| 18405 | 경쟁적전염     | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%92%80%EC%9D%B4-%EB%B0%B1%EC%A4%80-18405-%EA%B2%BD%EC%9F%81%EC%A0%81%EC%A0%84%EC%97%BCBFS) | S1   |
-| 1260  | DFS와BFS       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1260-DFS%EC%99%80-BFSdfsbfs) | S2   |
-| 2178  | 미로탐색       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2178-%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89dfsbfs) | S1   |
-| 1697  | 숨바꼭질       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88dfsbfs) | S1   |
-| 2667  | 단지번호붙이기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0dfsbfs) | S1   |
-| 1012  | 유기농배추     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1012-%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94dfsbfs) | S2   |
-| 11724 | 연결요소의개수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-11724-%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98dfsbfs) | S2   |
-| 6603  | 로또           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-6603-%EB%A1%9C%EB%98%90dfsbfs) | S2   |
-| 7576  | 토마토         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7576-%ED%86%A0%EB%A7%88%ED%86%A0dfsbfs) | S1   |
-| 7562  | 나이트의이동   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7562-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99dfsbfs) | S2   |
-| 1303  | 전투           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1303-%EC%A0%84%ED%88%ACdfsbfs) | S1   |
-| 16234 | 인구이동       | 풀이                                                         | G5   |
-| 12851 | 숨바꼭질2      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-12851-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%882dfsbfs) | G5   |
-| 13549 | 숨바꼭질3      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-13549-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883dfsbfs) | G5   |
-| 13913 | 숨바꼭질4      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-13913-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%884dfsbfs) | G5   |
-| 2606  | 바이러스       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2606-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4-%EA%B5%AC%ED%98%84) | S3   |
-| 1743  | 음식물피하기   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1743-%EC%9D%8C%EC%8B%9D%EB%AC%BC%ED%94%BC%ED%95%98%EA%B8%B0dfsbfs) | S1   |
-| 16935 | A-B            | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16953-A-Bdfsbfs) | S2   |
-| 2504  | 연산자끼워넣기 | 풀이                                                         | S1   |
-| 14226 | 이모티콘       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14226-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98dfsbfs) | G5   |
-| 17086 | 아기상어2      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-17086-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42dfsbfs) | G5   |
-| 16930 | 달리기         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16930-%EB%8B%AC%EB%A6%AC%EA%B8%B0dfsbfs) | P2   |
-| 2412  | 암벽등반       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2412-%EC%95%94%EB%B2%BD%EB%93%B1%EB%B0%98-bfs) | G3   |
+| 번호  | 문제               | 풀이                                                         | 레벨 |
+| ----- | ------------------ | ------------------------------------------------------------ | ---- |
+| 18405 | 경쟁적전염         | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%92%80%EC%9D%B4-%EB%B0%B1%EC%A4%80-18405-%EA%B2%BD%EC%9F%81%EC%A0%81%EC%A0%84%EC%97%BCBFS) | S1   |
+| 1260  | DFS와BFS           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1260-DFS%EC%99%80-BFSdfsbfs) | S2   |
+| 2178  | 미로탐색           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2178-%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89dfsbfs) | S1   |
+| 1697  | 숨바꼭질           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88dfsbfs) | S1   |
+| 2667  | 단지번호붙이기     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0dfsbfs) | S1   |
+| 1012  | 유기농배추         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1012-%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94dfsbfs) | S2   |
+| 11724 | 연결요소의개수     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-11724-%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98dfsbfs) | S2   |
+| 6603  | 로또               | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-6603-%EB%A1%9C%EB%98%90dfsbfs) | S2   |
+| 7576  | 토마토             | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7576-%ED%86%A0%EB%A7%88%ED%86%A0dfsbfs) | S1   |
+| 7562  | 나이트의이동       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7562-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99dfsbfs) | S2   |
+| 1303  | 전투               | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1303-%EC%A0%84%ED%88%ACdfsbfs) | S1   |
+| 16234 | 인구이동           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16234-%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99%EA%B5%AC%ED%98%84) | G5   |
+| 12851 | 숨바꼭질2          | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-12851-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%882dfsbfs) | G5   |
+| 13549 | 숨바꼭질3          | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-13549-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883dfsbfs) | G5   |
+| 13913 | 숨바꼭질4          | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-13913-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%884dfsbfs) | G5   |
+| 2606  | 바이러스           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2606-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4-%EA%B5%AC%ED%98%84) | S3   |
+| 1743  | 음식물피하기       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1743-%EC%9D%8C%EC%8B%9D%EB%AC%BC%ED%94%BC%ED%95%98%EA%B8%B0dfsbfs) | S1   |
+| 16935 | A-B                | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16953-A-Bdfsbfs) | S2   |
+| 2504  | 연산자끼워넣기     | 풀이                                                         | S1   |
+| 14226 | 이모티콘           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14226-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98dfsbfs) | G5   |
+| 17086 | 아기상어2          | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-17086-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42dfsbfs) | G5   |
+| 16930 | 달리기             | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16930-%EB%8B%AC%EB%A6%AC%EA%B8%B0dfsbfs) | P2   |
+| 2412  | 암벽등반           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2412-%EC%95%94%EB%B2%BD%EB%93%B1%EB%B0%98-bfs) | G3   |
+| 15686 | 치킨배달           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-15686-%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC-%EA%B5%AC%ED%98%84) | G5   |
+| 2206  | 벽 부수고 이동하기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2206-%EB%B2%BD-%EB%B6%80%EC%88%98%EA%B3%A0-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0-dfsbfs) | G5   |
+| 18352 | 특정거리의도시찾기 | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0-%ED%85%9C%ED%94%8C%EB%A6%BF) | S2   |
+| 14502 | 연구소             | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14502-%EC%97%B0%EA%B5%AC%EC%86%8C-dfsbfs) | G5   |
+| 18428 | 감시피하기         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-18428-%EA%B0%90%EC%8B%9C%ED%94%BC%ED%95%98%EA%B8%B0-dfsbfs) | S1   |
 
 
 
 ### 완탐(브루트포스)
 
-| 번호 | 문제       | 풀이 | 레벨 |
-| ---- | ---------- | ---- | ---- |
-| 3085 | 사탕게임   | 풀이 | S4   |
-| 1749 | 점수따먹기 |      | G4   |
+| 번호 | 문제       | 풀이                                                         | 레벨 |
+| ---- | ---------- | ------------------------------------------------------------ | ---- |
+| 3085 | 사탕게임   | 풀이                                                         | S4   |
+| 1749 | 점수따먹기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1749-%EC%A0%90%EC%88%98%EB%94%B0%EB%A8%B9%EA%B8%B0-%EA%B5%AC%EA%B0%84%ED%95%A9) | G4   |
 
 
 
@@ -120,7 +125,7 @@
 | ---- | -------------- | ------------------------------------------------------------ | ---- |
 | 1197 | 최소스패닝트리 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1197-%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC%EB%AC%B8%EC%9E%90%EC%97%B4) | G4   |
 | 1647 | 도시분할계획   | 풀이                                                         | G4   |
-| 1939 | 중량제한       | 풀이                                                         | G4   |
+| 1939 | 중량제한       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-1939-%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C-BFS-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC) | G4   |
 
 
 
@@ -130,6 +135,7 @@
 | ----- | ----------- | ------------------------------------------------------------ | ---- |
 | 16916 | 부분문자열  | 풀이                                                         | G4   |
 | 20437 | 문자열게임2 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%96%89%EB%A0%AC%ED%85%8C%EB%91%90%EB%A6%AC%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0Level2) | G5   |
+| 4358  | 생태학      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-4358-%EC%83%9D%ED%83%9C%ED%95%99-hash%EB%AC%B8%EC%9E%90%EC%97%B4) | G5   |
 
 
 
@@ -160,15 +166,16 @@
 | 1477  | 휴게소세우기  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1477-%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%84%B8%EC%9A%B0%EA%B8%B0-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
 | 7453  | 합이0인네정수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7453-%ED%95%A9%EC%9D%B40%EC%9D%B8%EB%84%A4%EC%A0%95%EC%88%98-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G2   |
 | 2473  | 세용액        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2473-%EC%84%B8%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
-| 15961 | 회전초밥      |                                                              | G4   |
+| 15961 | 회전초밥      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-1939-%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C-BFS-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC) | G4   |
 
 
 
 ### 정렬
 
-| 번호 | 문제     | 풀이 | 레벨 |
-| ---- | -------- | ---- | ---- |
-| 3085 | 줄세우기 | 풀이 | G2   |
+| 번호 | 문제         | 풀이                                                         | 레벨 |
+| ---- | ------------ | ------------------------------------------------------------ | ---- |
+| 3085 | 줄세우기     | 풀이                                                         | G2   |
+| 1715 | 카드정렬하기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1715-%EC%B9%B4%EB%93%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-dfsbfs) | G4   |
 
 
 
@@ -186,12 +193,18 @@
 
 | 번호  | 문제                              | 풀이                                                         | 레벨 |
 | ----- | --------------------------------- | ------------------------------------------------------------ | ---- |
-| 13397 | 구간나누기2                       |                                                              | G4   |
+| 13397 | 구간나누기2                       | 풀이                                                         | G4   |
 | 2110  | 공유기설치                        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89) | G4   |
-| 1939  | 중량제한(이분탐색, BFS, 크루스칼) |                                                              | G4   |
+| 1939  | 중량제한(이분탐색, BFS, 크루스칼) | [풀이](https://velog.io/@redcarrot01/ProblemSolving-1939-%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C-BFS-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC) | G4   |
 | 1300  | K번째수                           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1300-k%EB%B2%88%EC%A7%B8%EC%88%98-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89) | G3   |
 
 
+
+### heap
+
+| 번호 | 문제             | 풀이                                                         | 레벨 |
+| ---- | ---------------- | ------------------------------------------------------------ | ---- |
+| 7662 | 이중 우선순위 큐 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7662-%EC%9D%B4%EC%A4%91-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90-heap) | G5   |
 
 
 
@@ -404,7 +417,8 @@
 | 괄호변환     | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%92%80%EC%9D%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98-2020-KAKAO-BLIND-RECRUITMENT) | L2   |
 | 블록이동하기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42020-KAKAO-BLIND-RECRUITMENT-%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0BFS-Level3) | L3   |
 | 가사검색     | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C%EC%B1%84%EC%9A%A9-%EA%B0%80%EC%82%AC%EA%B2%80%EC%83%89Level4) | L4   |
-| 자물쇠와열쇠 | 풀이                                                         | L3   |
+| 자물쇠와열쇠 | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EC%B1%84%EC%9A%A9-%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80-%EC%97%B4%EC%87%A0-Level3) | L3   |
+| 문자열압축   | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EC%B1%84%EC%9A%A9-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95-Level2) | L2   |
 
 
 
