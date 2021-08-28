@@ -54,6 +54,7 @@
 | ---- | ---------- | ------------------------------------------------------------ | ---- |
 | 3085 | 사탕게임   | 풀이                                                         | S4   |
 | 1749 | 점수따먹기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1749-%EC%A0%90%EC%88%98%EB%94%B0%EB%A8%B9%EA%B8%B0-%EA%B5%AC%EA%B0%84%ED%95%A9) | G4   |
+| 1107 | 리모컨     | 풀이                                                         | G5   |
 
 
 
@@ -116,6 +117,7 @@
 | 11054 | 가장긴바이토닉부분수열 | 풀이                                                         | G3   |
 | 11055 | 가장큰증가부분수열     | 풀이                                                         | S2   |
 | 2225  | 합분해                 | 풀이                                                         | G5   |
+| 21757 | 나누기                 | 풀이                                                         | G3   |
 
 
 
@@ -136,6 +138,7 @@
 | 16916 | 부분문자열  | 풀이                                                         | G4   |
 | 20437 | 문자열게임2 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%96%89%EB%A0%AC%ED%85%8C%EB%91%90%EB%A6%AC%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0Level2) | G5   |
 | 4358  | 생태학      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-4358-%EC%83%9D%ED%83%9C%ED%95%99-hash%EB%AC%B8%EC%9E%90%EC%97%B4) | G5   |
+| 20210 | 파일탐색기  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-20210-%ED%8C%8C%EC%9D%BC%ED%83%90%EC%83%89%EA%B8%B0-%EB%AC%B8%EC%9E%90%EC%97%B4) | G2   |
 
 
 
@@ -158,15 +161,17 @@
 
 ### 투포인터
 
-| 번호  | 문제          | 풀이                                                         | 레벨 |
-| ----- | ------------- | ------------------------------------------------------------ | ---- |
-| 1806  | 부분합        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1806-%EB%B6%80%EB%B6%84%ED%95%A9%EB%AC%B8%EC%9E%90%EC%97%B4) | G4   |
-| 2470  | 두용액        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2470-%EB%91%90%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
-| 3151  | 합이0         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3151-%ED%95%A9%EC%9D%B40-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
-| 1477  | 휴게소세우기  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1477-%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%84%B8%EC%9A%B0%EA%B8%B0-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
-| 7453  | 합이0인네정수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7453-%ED%95%A9%EC%9D%B40%EC%9D%B8%EB%84%A4%EC%A0%95%EC%88%98-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G2   |
-| 2473  | 세용액        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2473-%EC%84%B8%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
-| 15961 | 회전초밥      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-1939-%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C-BFS-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC) | G4   |
+| 번호  | 문제                | 풀이                                                         | 레벨 |
+| ----- | ------------------- | ------------------------------------------------------------ | ---- |
+| 1806  | 부분합              | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1806-%EB%B6%80%EB%B6%84%ED%95%A9%EB%AC%B8%EC%9E%90%EC%97%B4) | G4   |
+| 2470  | 두용액              | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2470-%EB%91%90%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
+| 3151  | 합이0               | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3151-%ED%95%A9%EC%9D%B40-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
+| 1477  | 휴게소세우기        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1477-%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%84%B8%EC%9A%B0%EA%B8%B0-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G5   |
+| 7453  | 합이0인네정수       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7453-%ED%95%A9%EC%9D%B40%EC%9D%B8%EB%84%A4%EC%A0%95%EC%88%98-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G2   |
+| 2473  | 세용액              | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2473-%EC%84%B8%EC%9A%A9%EC%95%A1-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G4   |
+| 15961 | 회전초밥            | [풀이](https://velog.io/@redcarrot01/ProblemSolving-1939-%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C-BFS-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC) | G4   |
+| 20442 | ㅋㅋ루ㅋㅋ          | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-20366-%EA%B0%99%EC%9D%B4-%EB%88%88%EC%82%AC%EB%9E%8C-%EB%A7%8C%EB%93%A4%EB%9E%98-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0-japgm0er) | G3   |
+| 20366 | 같이 눈사람 만들래? | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-20366-%EA%B0%99%EC%9D%B4-%EB%88%88%EC%82%AC%EB%9E%8C-%EB%A7%8C%EB%93%A4%EB%9E%98-%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | G3   |
 
 
 
@@ -202,9 +207,12 @@
 
 ### heap
 
-| 번호 | 문제             | 풀이                                                         | 레벨 |
-| ---- | ---------------- | ------------------------------------------------------------ | ---- |
-| 7662 | 이중 우선순위 큐 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7662-%EC%9D%B4%EC%A4%91-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90-heap) | G5   |
+| 번호  | 문제             | 풀이                                                         | 레벨 |
+| ----- | ---------------- | ------------------------------------------------------------ | ---- |
+| 7662  | 이중 우선순위 큐 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7662-%EC%9D%B4%EC%A4%91-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90-heap) | G5   |
+| 1927  | 최소힙           | 풀이                                                         | S1   |
+| 11279 | 최대힙           | 풀이                                                         | S2   |
+| 11286 | 절댓값힙         | 풀이                                                         | S1   |
 
 
 
@@ -367,6 +375,18 @@
 | 삼각달팽이         | 풀이                                                         | ✔        | L2   |
 | 쿼드압축후개수세기 | 푸는중                                                       |          | L2   |
 |                    |                                                              |          |      |
+
+
+
+## 위클리챌린지
+
+| 문제                   | 풀이                                                         | 레벨 |
+| ---------------------- | ------------------------------------------------------------ | ---- |
+| 2주차 상호 평가        | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%ED%81%B4%EB%A6%AC%EC%B2%B4%EC%9D%B8%EC%A7%80-2%EC%A3%BC%EC%B0%A8-%EC%83%81%ED%98%B8%ED%8F%89%EA%B0%80) | L1   |
+| 3주차 퍼즐 조각 채우기 | 풀이                                                         | L3   |
+| 4주차 직업군 추천하기  | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%ED%81%B4%EB%A6%AC%EC%B1%8C%EB%A6%B0%EC%A7%80-4%EC%A3%BC%EC%B0%A8-%EC%A7%81%EC%97%85%EA%B5%B0-%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0) | L1   |
+
+
 
 </div>
 </details>   
